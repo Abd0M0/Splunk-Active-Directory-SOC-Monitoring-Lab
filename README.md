@@ -37,7 +37,7 @@ I configured Splunk and Sysmon, forwarded Windows event logs to the indexer, exe
 #### Log Analysis
 - Interpret Windows and network logs to detect suspicious activity and incidents.
 #### Problem-Solving
-- Develop hands-on troubleshooting and investigative skills for security monitoring and incident response.
+- Develop hands-on troubleshooting and investigative skills for security monitoring.
 <br></br>
 
 ## Tools Used
